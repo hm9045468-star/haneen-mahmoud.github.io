@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#07333a"/><stop offset="1" stop-color="#ded7e9"/></linearGradient></defs>
+<rect width="1200" height="700" fill="#f5f5f2"/>
+<rect x="35" y="35" width="1130" height="630" rx="24" fill="url(#g)"/>
+<text x="75" y="95" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">FUNDRAISING ANALYTICS</text>
+<text x="75" y="145" fill="#fff" font-family="Arial,sans-serif" font-size="40" font-weight="700">Fundraising</text>
+<g fill="#fff" opacity=".95"><rect x="75" y="190" width="245" height="105" rx="14"/><rect x="340" y="190" width="245" height="105" rx="14"/><rect x="605" y="190" width="245" height="105" rx="14"/><rect x="870" y="190" width="245" height="105" rx="14"/></g>
+<g fill="#16343a" font-family="Arial,sans-serif" font-weight="700" font-size="15"><text x="98" y="225">DONATIONS</text><text x="363" y="225">DONORS</text><text x="628" y="225">CAMPAIGNS</text><text x="893" y="225">IMPACT</text></g>
+<g fill="#fff" opacity=".95"><rect x="75" y="325" width="650" height="275" rx="16"/><rect x="745" y="325" width="370" height="275" rx="16"/></g>
+<text x="100" y="365" fill="#16343a" font-family="Arial,sans-serif" font-size="20" font-weight="700">Donation Trends</text>
+<text x="770" y="365" fill="#16343a" font-family="Arial,sans-serif" font-size="20" font-weight="700">Campaign Impact</text>
+<g fill="#a86f4b">
+<rect x="115" y="520" width="42" height="45" rx="4"/><rect x="180" y="490" width="42" height="75" rx="4"/><rect x="245" y="465" width="42" height="100" rx="4"/><rect x="310" y="505" width="42" height="60" rx="4"/><rect x="375" y="430" width="42" height="135" rx="4"/><rect x="440" y="455" width="42" height="110" rx="4"/><rect x="505" y="400" width="42" height="165" rx="4"/><rect x="570" y="420" width="42" height="145" rx="4"/><rect x="635" y="380" width="42" height="185" rx="4"/>
+</g>
+<g stroke="#d6d6d0" stroke-width="2"><path d="M100 565 H700"/><path d="M100 495 H700"/><path d="M100 425 H700"/></g>
+<g fill="#16343a"><rect x="790" y="420" width="260" height="28" rx="14"/><rect x="790" y="475" width="210" height="28" rx="14"/><rect x="790" y="530" width="155" height="28" rx="14"/></g>
+<text x="75" y="640" fill="#fff" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">PYTHON • DJANGO • POSTGRESQL • DATA INSIGHTS</text>
+</svg>
